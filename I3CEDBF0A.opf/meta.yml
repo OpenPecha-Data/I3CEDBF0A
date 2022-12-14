@@ -1,0 +1,28 @@
+id: I3CEDBF0A
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:11:47.528646+00:00
+last_modified: 2022-12-14 18:11:47.528652+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T15:49:49.594Z'
+  creationid: celso
+  eft-text-id: UT22084-051-004
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_116-The_Baskets_Display-v1
+bases:
+  5C3B:
+    source_metadata: null
+    order: 1
+    base_file: 5C3B.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
